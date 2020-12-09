@@ -3,6 +3,6 @@ I'm an experienced data engineer and [Microsoft Data Platform MVP](https://mvp.m
 
 Find me at:
 * [richardswinbank.net](https://richardswinbank.net)
-* [LinkedIn](https://uk.linkedin.com/in/richardswinbank)
 * [Twitter](https://twitter.com/RichardSwinbank)
+* [LinkedIn](https://uk.linkedin.com/in/richardswinbank)
 * [richard@richardswinbank.net](mailto:richard@RichardSwinbank.net)
